@@ -1,5 +1,3 @@
-# Why I start a blog  
-
 My PhD is the biggest task I ever tried to do, and thus I want to break it into several smaller parts. Many articles about accomplishing your PhD suggest that a blog could be helpful in the life of an assistant researcher.  
 
 I hope that writing a blog supports many of my goals. For example, I should be able to practice my writing. My writing has lots of room for improvement and I would like to use at least 80% of my potential ([Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)). Writing, especially in academia is the main medium of communication. Not being able to communicate well is an obstacle I would like to overcome.  
